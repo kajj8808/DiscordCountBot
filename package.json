@@ -1,0 +1,23 @@
+{
+  "name": "countbot",
+  "version": "1.0.0",
+  "description": "discord Count Bot ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajj8808/DiscordCountBot.git"
+  },
+  "author": "sss003366@naver.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajj8808/DiscordCountBot/issues"
+  },
+  "homepage": "https://github.com/kajj8808/DiscordCountBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
