@@ -7,7 +7,7 @@
   - [x] Count Reset
   - [x] SaveUser Count 
   - [x] LoadUser Count
-  - [x] Add emo
+  - [x] Add Memo
   
 # command
   - {prefix}p {memo or null} | CountPlus
