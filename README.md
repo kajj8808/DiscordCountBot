@@ -10,7 +10,7 @@
   - [x] Add SubTitle
   
 # command
-  - {prefix}p {subTitle or null} | CountPlus
+  - {prefix}p {memo or null} | CountPlus
   - {prefix}m | CountMinus
   - {prefix}reset | CoountReset
   
